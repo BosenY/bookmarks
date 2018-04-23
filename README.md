@@ -57,6 +57,10 @@ Continually updated.
 
 [plainjs][plainjs]
 
+## Pokemon
+
+- [pokeapi][pokeapi]
+
 ## PPT
 
 - [reveal.js][reveal.js]
@@ -123,6 +127,7 @@ Continually updated.
 [Mint-ui]: http://mint-ui.github.io/
 [leetcode]: https://leetcode-cn.com/
 [plainjs]: https://plainjs.com/
+[pokeapi]:https://pokeapi.co/
 [pomelo]: https://github.com/NetEase/pomelo
 [process on]: https://www.processon.com/
 [React]: https://reactjs.org/
