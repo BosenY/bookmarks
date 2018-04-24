@@ -125,9 +125,22 @@ Continually updated.
 - [hexo][hexo] A fast, simple & powerful blog framework, powered by Node.js.
 - [vuepress][vuepress] 📝 Minimalistic Vue-powered static site generator
 
+## Style Guide
+
+- [clean-code-javascript][clean-code-javascript] 🛁 Clean Code concepts adapted for JavaScript
+- [clean-code-javascript-cn][clean-code-javascript-cn] JavaScript 风格指南
+- [eslint-plugin-vue][eslint-plugin-vue] Official ESLint plugin for Vue.js
+- [javascript][javascript] JavaScript Style Guide
+- [javascript-cn][javascript-cn] JavaScript Style Guide 中文版
+- [standard][standard] 🌟 JavaScript Style Guide, with linter & automatic code fixer
+
 ## Tensorflow
 
 - [tensorflow-js][tensorflow-js] A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+
+## Typechecker
+
+- [flow][flow] Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## UI Componets
 
@@ -175,7 +188,7 @@ Continually updated.
 
 
 
-
+[javascript]: https://github.com/airbnb/javascript
 [animate css]: https://daneden.github.io/animate.css/
 [anchorjs]: https://github.com/bryanbraun/anchorjs
 [Ant-design]: https://ant.design
@@ -194,6 +207,8 @@ Continually updated.
 
 [babel-plugin-jsx-v-model]: https://github.com/nickmessing/babel-plugin-jsx-v-model
 
+[clean-code-javascript]: https://github.com/ryanmcdermott/clean-code-javascript
+[clean-code-javascript-cn]: https://github.com/alivebao/clean-code-js
 [codewars]: https://www.codewars.com/dashboard
 
 [docschina]: https://www.docschina.org/
@@ -204,8 +219,10 @@ Continually updated.
 [Electron]: https://github.com/electron/electron
 [electron-react-boilerplate]: https://github.com/chentsulin/electron-react-boilerplate
 [electron-vue]: https://github.com/SimulatedGREG/electron-vue
+[eslint-plugin-vue]: https://github.com/vuejs/eslint-plugin-vue
 
 [FE-tutorial]: https://github.com/windiest/Front-end-tutorial
+[flow]: https://github.com/facebook/flow
 [Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
 
 [gatsby]: https://github.com/gatsbyjs/gatsby
@@ -218,6 +235,7 @@ Continually updated.
 [Iview]: https://www.iviewui.com/
 [Iview-admin]: https://iview.github.io/iview-admin
 
+[javascript-cn]: https://github.com/sivan/javascript-style-guide
 [JS.coach]: https://js.coach/
 
 [Koa]: http://koajs.com/
@@ -247,11 +265,13 @@ Continually updated.
 [React Native UI]: https://github.com/react-native-training/react-native-elements
 
 [semantic-css-with-intelligent-selectors]: https://www.w3cplus.com/css/semantic-css-with-intelligent-selectors.html
-[slides]: https://slides.com.
+[slides]: https://slides.com
+[standard]: https://github.com/standard/standard
+
+
 
 [reveal.js]: https://github.com/hakimel/reveal.js
 [Ruff]: https://ruff.io/
-
 
 [tensorflow-js]: https://github.com/tensorflow/tfjs
 [tinypng]: https://tinypng.com/
