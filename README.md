@@ -6,6 +6,7 @@ Continually updated.
 ## ACM
 
 - [codewars][codewars]
+- [leetbook][leetbook] A leetcode analysis.
 - [leetcode][leetcode]
 
 ## Animation
@@ -34,8 +35,10 @@ Continually updated.
 
 ## Common Sources
 
-- [MDN][MDN] Cntains many Front Develop Sources
+- [docschina][docschina] 🔥🔥🔥 many docs by Chinese.
 - [FE-tutorial][FE-tutorial]
+- [JS.coach][JS.coach] 🎉 A manually curated list of packages related to React, Webpack, Babel and PostCSS
+- [MDN][MDN] Cntains many Front Develop Sources
 - [Node Frameworks][Node Frameworks] Hand-picked registry of Node.js frameworks.
 
 ## DB
@@ -58,6 +61,8 @@ Continually updated.
 ## Develop Tools
 
 - [vscode][vscode]
+- [tinypng][tinypng] Optimize your images with a perfect balance in quality and file size.
+
 
 ## Electron
 
@@ -112,6 +117,13 @@ Continually updated.
 
 - [reveal.js][reveal.js]
 - [slides][slides]
+
+## Site generator
+
+- [docsify][docsify] 🃏 A magical documentation site generator.
+- [gatsby][gatsby] ⚛️📄🚀 Blazing fast static site generator for React
+- [hexo][hexo] A fast, simple & powerful blog framework, powered by Node.js.
+- [vuepress][vuepress] 📝 Minimalistic Vue-powered static site generator
 
 ## Tensorflow
 
@@ -184,6 +196,9 @@ Continually updated.
 
 [codewars]: https://www.codewars.com/dashboard
 
+[docschina]: https://www.docschina.org/
+[docsify]: https://github.com/QingWei-Li/docsify/
+
 [Eggjs]: https://eggjs.org/
 [Element]: http://element.eleme.io/
 [Electron]: https://github.com/electron/electron
@@ -193,17 +208,21 @@ Continually updated.
 [FE-tutorial]: https://github.com/windiest/Front-end-tutorial
 [Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
 
+[gatsby]: https://github.com/gatsbyjs/gatsby
 [Git]: https://git-scm.com/book/zh/v2
 
+[hexo]: https://github.com/hexojs/hexo
 [high-performance-html]: https://www.w3cplus.com/performance/high-performance-html.html
 
 [IconFont]: http://www.iconfont.cn/
 [Iview]: https://www.iviewui.com/
 [Iview-admin]: https://iview.github.io/iview-admin
 
+[JS.coach]: https://js.coach/
 
 [Koa]: http://koajs.com/
 
+[leetbook]: https://www.gitbook.com/book/hk029/leetbook
 [leetcode]: https://leetcode-cn.com/
 
 [material-design-icons]: https://github.com/google/material-design-icons
@@ -235,9 +254,11 @@ Continually updated.
 
 
 [tensorflow-js]: https://github.com/tensorflow/tfjs
+[tinypng]: https://tinypng.com/
 
 [velocity]: https://github.com/julianshapiro/velocity
 [Vue]: https://vuejs.org/
+[vuepress]: https://github.com/vuejs/vuepress
 [vscode]: https://github.com/Microsoft/vscode
 [Vue-tips]: https://vuejs-tips.github.io/cheatsheet/
 [Vux]: https://vux.li/
