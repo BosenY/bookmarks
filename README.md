@@ -20,6 +20,7 @@ Continually updated.
 - [awesome-blockchain-cn][awesome-blockchain-cn] Awesome BlockChain in China
 - [awesome-egg][awesome-egg]
 - [awesome-electron][awesome-electron]
+- [awesome-eslint][awesome-eslint] A list of awesome ESLint plugins, configs, etc.
 - [awesome-flow][awesome-flow] A list of awesome Flow integrations, tools, tutorials, etc.
 - [awesome-go][awesome-go] A curated list of awesome Go frameworks, libraries and software
 - [awesome-koa][awesome-koa]
@@ -199,6 +200,7 @@ Continually updated.
 [awesome-blockchain-cn]: https://github.com/chaozh/awesome-blockchain-cn
 [awesome-egg]: https://github.com/eggjs/awesome-egg
 [awesome-electron]: https://github.com/sindresorhus/awesome-electron
+[awesome-eslint]: https://github.com/dustinspecker/awesome-eslint
 [awesome-flow]: https://github.com/dustinspecker/awesome-flow
 [awesome-go]: https://github.com/avelino/awesome-go
 [awesome-koa]: https://github.com/ellerbrock/awesome-koa
