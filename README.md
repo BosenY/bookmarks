@@ -11,6 +11,7 @@ Continually updated.
 ## Animation
 
 - [animate css][animate css]
+- [velocity][velocity] Accelerated JavaScript animation.
 
 ## Awesomes
 
@@ -34,6 +35,8 @@ Continually updated.
 ## Common Sources
 
 - [MDN][MDN] Cntains many Front Develop Sources
+- [FE-tutorial][FE-tutorial]
+- [Node Frameworks][Node Frameworks] Hand-picked registry of Node.js frameworks.
 
 ## DB
 
@@ -72,11 +75,16 @@ Continually updated.
 - [Koa][Koa]
 - [React][React]
 - [Vue][Vue]
+- [phaser][phaser] A fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [pomelo][pomelo] A fast,scalable,distributed game server framework for Node.js.
 
 ## Git
 
 - [Git][Git]
+
+## Html-semantics
+
+- <a href="https://github.com/BosenY/bookmarks/blob/master/html-semantics.CN.md">html-semantics</a>
 
 ## Icon
 
@@ -156,12 +164,9 @@ Continually updated.
 
 [animate css]: https://daneden.github.io/animate.css/
 [anchorjs]: https://github.com/bryanbraun/anchorjs
-
 [Ant-design]: https://ant.design
 [Ant-design-pro]: https://preview.pro.ant.design
 [Ant-design-mobile]: https://mobile.ant.design
-
-
 [awesomes]: https://www.awesomes.cn
 [awesome-blockchain-cn]: https://github.com/chaozh/awesome-blockchain-cn
 [awesome-egg]: https://github.com/eggjs/awesome-egg
@@ -176,58 +181,59 @@ Continually updated.
 [babel-plugin-jsx-v-model]: https://github.com/nickmessing/babel-plugin-jsx-v-model
 
 [codewars]: https://www.codewars.com/dashboard
+
 [Eggjs]: https://eggjs.org/
 [Element]: http://element.eleme.io/
-
-
 [Electron]: https://github.com/electron/electron
 [electron-react-boilerplate]: https://github.com/chentsulin/electron-react-boilerplate
 [electron-vue]: https://github.com/SimulatedGREG/electron-vue
 
+[FE-tutorial]: https://github.com/windiest/Front-end-tutorial
 [Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
 
 [Git]: https://git-scm.com/book/zh/v2
 
-[IconFont]: http://www.iconfont.cn/
+<!-- [html-semantics]: https://github.com/BosenY/bookmarks/blob/master/html-semantics.CN.md -->
 
+[IconFont]: http://www.iconfont.cn/
 [Iview]: https://www.iviewui.com/
 [Iview-admin]: https://iview.github.io/iview-admin
 
 
 [Koa]: http://koajs.com/
+
+[leetcode]: https://leetcode-cn.com/
+
 [material-design-icons]: https://github.com/google/material-design-icons
 [Material-Ui]: http://material-ui.com/
 [MDN]: https://developer.mozilla.org/zh-CN/
 [Mint-ui]: http://mint-ui.github.io/
 [mongodb]: https://github.com/mongodb/mongo
-[leetcode]: https://leetcode-cn.com/
+
+[Node Frameworks]: http://nodeframework.com/
+
+[phaser]: https://github.com/photonstorm/phaser
 [plainjs]: https://plainjs.com/
 [pouchdb]: https://github.com/pouchdb/pouchdb
-
-
 [pokeapi]: https://pokeapi.co/
 [pokedex]: https://github.com/veekun/pokedex
 [pokemondb]: https://pokemondb.net/
-
-
 [pomelo]: https://github.com/NetEase/pomelo
 [process on]: https://www.processon.com/
-
 
 [React]: https://reactjs.org/
 [React-weui]: react-weui
 [React Native UI]: https://github.com/react-native-training/react-native-elements
 
-
 [slides]: https://slides.com.
+
 [reveal.js]: https://github.com/hakimel/reveal.js
 [Ruff]: https://ruff.io/
 
 
 [tensorflow-js]: https://github.com/tensorflow/tfjs
 
-
-
+[velocity]: https://github.com/julianshapiro/velocity
 [Vue]: https://vuejs.org/
 [vscode]: https://github.com/Microsoft/vscode
 [Vue-tips]: https://vuejs-tips.github.io/cheatsheet/
