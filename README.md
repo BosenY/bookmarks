@@ -17,6 +17,7 @@ Continually updated.
 - [awesomes][awesomes]
 - [awesome-blockchain-cn][awesome-blockchain-cn] Awesome BlockChain in China
 - [awesome-egg][awesome-egg]
+- [awesome-electron][awesome-electron]
 - [awesome-flow][awesome-flow] A list of awesome Flow integrations, tools, tutorials, etc.
 - [awesome-go][awesome-go] A curated list of awesome Go frameworks, libraries and software
 - [awesome-koa][awesome-koa]
@@ -34,6 +35,19 @@ Continually updated.
 
 - [MDN][MDN] Cntains many Front Develop Sources
 
+## DB
+
+- [mongodb][mongodb]
+- [pouchdb][pouchdb] 🐨 - PouchDB is a pocket-sized database.
+
+## Develop Using Libraries
+
+- [anchorjs][anchorjs] Add deep anchor links to your docs.
+
+### Vue
+
+- [babel-plugin-jsx-v-model][babel-plugin-jsx-v-model] JSX Syntactic Sugar Plugin for v-model
+
 ## Develop Tips
 
 - [Vue-tips][Vue-tips] Minimal Vue API
@@ -41,6 +55,12 @@ Continually updated.
 ## Develop Tools
 
 - [vscode][vscode]
+
+## Electron
+
+- [Electron][Electron] Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [electron-react-boilerplate][electron-react-boilerplate]
+- [electron-vue][electron-vue]
 
 ## Flow chart
 
@@ -58,6 +78,12 @@ Continually updated.
 
 - [Git][Git]
 
+## Icon
+
+- [IconFont][IconFont]
+- [Font-Awesome][Font-Awesome]
+- [material-design-icons][material-design-icons] Material Design icons by Google
+
 ## IOT
 
 - [Ruff][Ruff]
@@ -68,12 +94,18 @@ Continually updated.
 
 ## Pokemon
 
-- [pokeapi][pokeapi]
+- [pokeapi][pokeapi] A restful api for pokemon
+- [pokedex][pokedex] More than you ever wanted to know about Pokémon
+- [pokemondb][pokemondb] Pokémon Database
 
 ## PPT
 
 - [reveal.js][reveal.js]
 - [slides][slides]
+
+## Tensorflow
+
+- [tensorflow-js][tensorflow-js] A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
 
 ## UI Componets
 
@@ -123,39 +155,79 @@ Continually updated.
 
 
 [animate css]: https://daneden.github.io/animate.css/
+[anchorjs]: https://github.com/bryanbraun/anchorjs
+
 [Ant-design]: https://ant.design
 [Ant-design-pro]: https://preview.pro.ant.design
 [Ant-design-mobile]: https://mobile.ant.design
+
+
 [awesomes]: https://www.awesomes.cn
 [awesome-blockchain-cn]: https://github.com/chaozh/awesome-blockchain-cn
 [awesome-egg]: https://github.com/eggjs/awesome-egg
+[awesome-electron]: https://github.com/sindresorhus/awesome-electron
 [awesome-flow]: https://github.com/dustinspecker/awesome-flow
 [awesome-go]: https://github.com/avelino/awesome-go
 [awesome-koa]: https://github.com/ellerbrock/awesome-koa
 [awesome-react]: https://github.com/enaqx/awesome-react
 [awesome-react-native]: https://github.com/jondot/awesome-react-native
 [awesome-vue]: https://github.com/vuejs/awesome-vue
+
+[babel-plugin-jsx-v-model]: https://github.com/nickmessing/babel-plugin-jsx-v-model
+
 [codewars]: https://www.codewars.com/dashboard
 [Eggjs]: https://eggjs.org/
 [Element]: http://element.eleme.io/
+
+
+[Electron]: https://github.com/electron/electron
+[electron-react-boilerplate]: https://github.com/chentsulin/electron-react-boilerplate
+[electron-vue]: https://github.com/SimulatedGREG/electron-vue
+
+[Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
+
 [Git]: https://git-scm.com/book/zh/v2
+
+[IconFont]: http://www.iconfont.cn/
+
 [Iview]: https://www.iviewui.com/
 [Iview-admin]: https://iview.github.io/iview-admin
+
+
 [Koa]: http://koajs.com/
+[material-design-icons]: https://github.com/google/material-design-icons
 [Material-Ui]: http://material-ui.com/
 [MDN]: https://developer.mozilla.org/zh-CN/
 [Mint-ui]: http://mint-ui.github.io/
+[mongodb]: https://github.com/mongodb/mongo
 [leetcode]: https://leetcode-cn.com/
 [plainjs]: https://plainjs.com/
-[pokeapi]:https://pokeapi.co/
+[pouchdb]: https://github.com/pouchdb/pouchdb
+
+
+[pokeapi]: https://pokeapi.co/
+[pokedex]: https://github.com/veekun/pokedex
+[pokemondb]: https://pokemondb.net/
+
+
 [pomelo]: https://github.com/NetEase/pomelo
 [process on]: https://www.processon.com/
+
+
 [React]: https://reactjs.org/
 [React-weui]: react-weui
 [React Native UI]: https://github.com/react-native-training/react-native-elements
+
+
 [slides]: https://slides.com.
 [reveal.js]: https://github.com/hakimel/reveal.js
 [Ruff]: https://ruff.io/
+
+
+[tensorflow-js]: https://github.com/tensorflow/tfjs
+
+
+
 [Vue]: https://vuejs.org/
 [vscode]: https://github.com/Microsoft/vscode
 [Vue-tips]: https://vuejs-tips.github.io/cheatsheet/
