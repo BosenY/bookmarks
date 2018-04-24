@@ -85,6 +85,8 @@ Continually updated.
 ## Html-semantics
 
 - <a href="https://github.com/BosenY/bookmarks/blob/master/%08html-semantics.CN.md">html-semantics</a>
+- [semantic-css-with-intelligent-selectors][semantic-css-with-intelligent-selectors]
+- [high-performance-html][high-performance-html]
 
 ## Icon
 
@@ -193,7 +195,7 @@ Continually updated.
 
 [Git]: https://git-scm.com/book/zh/v2
 
-<!-- [html-semantics]: https://github.com/BosenY/bookmarks/blob/master/html-semantics.CN.md -->
+[high-performance-html]: https://www.w3cplus.com/performance/high-performance-html.html
 
 [IconFont]: http://www.iconfont.cn/
 [Iview]: https://www.iviewui.com/
@@ -225,6 +227,7 @@ Continually updated.
 [React-weui]: react-weui
 [React Native UI]: https://github.com/react-native-training/react-native-elements
 
+[semantic-css-with-intelligent-selectors]: https://www.w3cplus.com/css/semantic-css-with-intelligent-selectors.html
 [slides]: https://slides.com.
 
 [reveal.js]: https://github.com/hakimel/reveal.js
