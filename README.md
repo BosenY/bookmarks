@@ -49,6 +49,7 @@ Continually updated.
 ## Develop Using Libraries
 
 - [anchorjs][anchorjs] Add deep anchor links to your docs.
+- [EaselJS][EaselJS] A library for building high-performance interactive 2D content in HTML5.
 
 ### Vue
 
@@ -214,6 +215,7 @@ Continually updated.
 [docschina]: https://www.docschina.org/
 [docsify]: https://github.com/QingWei-Li/docsify/
 
+[EaselJS]: https://github.com/CreateJS/EaselJS
 [Eggjs]: https://eggjs.org/
 [Element]: http://element.eleme.io/
 [Electron]: https://github.com/electron/electron
