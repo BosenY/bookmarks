@@ -35,7 +35,7 @@ Continually updated.
 
 ## Common Sources
 
-- [docschina][docschina] 🔥🔥🔥 many docs by Chinese.
+- [docschina][docschina] 🔥🔥🔥 many docs by Chinese.
 - [FE-tutorial][FE-tutorial]
 - [JS.coach][JS.coach] 🎉 A manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [MDN][MDN] Cntains many Front Develop Sources
