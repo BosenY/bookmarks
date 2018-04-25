@@ -41,6 +41,7 @@ Continually updated.
 - [JS.coach][JS.coach] 🎉 A manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [MDN][MDN] Cntains many Front Develop Sources
 - [Node Frameworks][Node Frameworks] Hand-picked registry of Node.js frameworks.
+- [frontend-dev-bookmarks][frontend-dev-bookmarks] Manually curated collection of resources for frontend web developers.
 
 ## DB
 
@@ -51,6 +52,7 @@ Continually updated.
 
 - [anchorjs][anchorjs] Add deep anchor links to your docs.
 - [EaselJS][EaselJS] A library for building high-performance interactive 2D content in HTML5.
+- [rough][rough] Create graphics with a hand-drawn, sketchy, appearance
 
 ### Vue
 
@@ -119,6 +121,11 @@ Continually updated.
 
 - [reveal.js][reveal.js]
 - [slides][slides]
+
+## Resume
+
+- [best-resume-ever][best-resume-ever] 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+- [ResumeSample][ResumeSample]
 
 ## Site generator
 
@@ -209,6 +216,7 @@ Continually updated.
 [awesome-vue]: https://github.com/vuejs/awesome-vue
 
 [babel-plugin-jsx-v-model]: https://github.com/nickmessing/babel-plugin-jsx-v-model
+[best-resume-ever]: https://github.com/salomonelli/best-resume-ever
 
 [clean-code-javascript]: https://github.com/ryanmcdermott/clean-code-javascript
 [clean-code-javascript-cn]: https://github.com/alivebao/clean-code-js
@@ -228,6 +236,7 @@ Continually updated.
 [FE-tutorial]: https://github.com/windiest/Front-end-tutorial
 [flow]: https://github.com/facebook/flow
 [Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
+[frontend-dev-bookmarks]: https://github.com/dypsilon/frontend-dev-bookmarks
 
 [gatsby]: https://github.com/gatsbyjs/gatsby
 [Git]: https://git-scm.com/book/zh/v2
@@ -273,8 +282,9 @@ Continually updated.
 [standard]: https://github.com/standard/standard
 
 
-
+[ResumeSample]: https://github.com/geekcompany/ResumeSample
 [reveal.js]: https://github.com/hakimel/reveal.js
+[rough]: https://github.com/pshihn/rough
 [Ruff]: https://ruff.io/
 
 [tensorflow-js]: https://github.com/tensorflow/tfjs
