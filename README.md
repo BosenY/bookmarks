@@ -39,6 +39,7 @@ Continually updated.
 - [docschina][docschina] 🔥🔥🔥 many docs by Chinese.
 - [FE-tutorial][FE-tutorial]
 - [JS.coach][JS.coach] 🎉 A manually curated list of packages related to React, Webpack, Babel and PostCSS
+- [learnVue][learnVue] Vue.js source code analysis
 - [MDN][MDN] Cntains many Front Develop Sources
 - [naotu][naotu] 百度脑图
 - [Node Frameworks][Node Frameworks] Hand-picked registry of Node.js frameworks.
@@ -257,6 +258,7 @@ Continually updated.
 
 [Koa]: http://koajs.com/
 
+[learnVue]: https://github.com/answershuto/learnVue
 [leetbook]: https://www.gitbook.com/book/hk029/leetbook
 [leetcode]: https://leetcode-cn.com/
 
