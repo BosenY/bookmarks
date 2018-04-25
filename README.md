@@ -40,8 +40,11 @@ Continually updated.
 - [FE-tutorial][FE-tutorial]
 - [JS.coach][JS.coach] 🎉 A manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [MDN][MDN] Cntains many Front Develop Sources
+- [naotu][naotu] 百度脑图
 - [Node Frameworks][Node Frameworks] Hand-picked registry of Node.js frameworks.
+- [Front-end-Web-Development-Interview-Question][Front-end-Web-Development-Interview-Question]
 - [frontend-dev-bookmarks][frontend-dev-bookmarks] Manually curated collection of resources for frontend web developers.
+- [offernews][offernews]
 
 ## DB
 
@@ -236,6 +239,7 @@ Continually updated.
 [FE-tutorial]: https://github.com/windiest/Front-end-tutorial
 [flow]: https://github.com/facebook/flow
 [Font-Awesome]: https://github.com/FortAwesome/Font-Awesome
+[Front-end-Web-Development-Interview-Question]: https://github.com/paddingme/Front-end-Web-Development-Interview-Question
 [frontend-dev-bookmarks]: https://github.com/dypsilon/frontend-dev-bookmarks
 
 [gatsby]: https://github.com/gatsbyjs/gatsby
@@ -262,7 +266,10 @@ Continually updated.
 [Mint-ui]: http://mint-ui.github.io/
 [mongodb]: https://github.com/mongodb/mongo
 
+[naotu]: http://naotu.baidu.com/
 [Node Frameworks]: http://nodeframework.com/
+
+[offernews]: https://offernews.cn/
 
 [phaser]: https://github.com/photonstorm/phaser
 [plainjs]: https://plainjs.com/
