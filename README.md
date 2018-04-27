@@ -99,7 +99,7 @@ Continually updated.
 
 ## Html-semantics
 
-- <a href="https://github.com/BosenY/bookmarks/blob/master/%08html-semantics.CN.md">html-semantics</a>
+- <a href="https://github.com/BosenY/bookmarks/blob/master/html-semantics.CN.md">html-semantics</a>
 - [semantic-css-with-intelligent-selectors][semantic-css-with-intelligent-selectors]
 - [high-performance-html][high-performance-html]
 
