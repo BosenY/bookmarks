@@ -38,14 +38,15 @@ Continually updated.
 
 - [docschina][docschina] 🔥🔥🔥 many docs by Chinese.
 - [FE-tutorial][FE-tutorial]
+- [Front-end-Web-Development-Interview-Question][Front-end-Web-Development-Interview-Question]
+- [frontend-dev-bookmarks][frontend-dev-bookmarks] Manually curated collection of resources for frontend web developers.
 - [JS.coach][JS.coach] 🎉 A manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [learnVue][learnVue] Vue.js source code analysis
 - [MDN][MDN] Cntains many Front Develop Sources
 - [naotu][naotu] 百度脑图
 - [Node Frameworks][Node Frameworks] Hand-picked registry of Node.js frameworks.
-- [Front-end-Web-Development-Interview-Question][Front-end-Web-Development-Interview-Question]
-- [frontend-dev-bookmarks][frontend-dev-bookmarks] Manually curated collection of resources for frontend web developers.
 - [offernews][offernews]
+- [Tampermonkey][Tampermonkey] 一款免费的浏览器扩展和最为流行的用户脚本管理器
 
 ## DB
 
@@ -296,6 +297,7 @@ Continually updated.
 [rough]: https://github.com/pshihn/rough
 [Ruff]: https://ruff.io/
 
+[Tampermonkey]: http://tampermonkey.net/
 [tensorflow-js]: https://github.com/tensorflow/tfjs
 [tinypng]: https://tinypng.com/
 
