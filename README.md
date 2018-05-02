@@ -144,6 +144,7 @@ Continually updated.
 
 - [clean-code-javascript][clean-code-javascript] 🛁 Clean Code concepts adapted for JavaScript
 - [clean-code-javascript-cn][clean-code-javascript-cn] JavaScript 风格指南
+- [eslint-plugin-react][eslint-plugin-react] React specific linting rules for ESLint
 - [eslint-plugin-vue][eslint-plugin-vue] Official ESLint plugin for Vue.js
 - [javascript][javascript] JavaScript Style Guide
 - [javascript-cn][javascript-cn] JavaScript Style Guide 中文版
@@ -237,6 +238,7 @@ Continually updated.
 [Electron]: https://github.com/electron/electron
 [electron-react-boilerplate]: https://github.com/chentsulin/electron-react-boilerplate
 [electron-vue]: https://github.com/SimulatedGREG/electron-vue
+[eslint-plugin-react]: https://github.com/yannickcr/eslint-plugin-react
 [eslint-plugin-vue]: https://github.com/vuejs/eslint-plugin-vue
 
 [FE-tutorial]: https://github.com/windiest/Front-end-tutorial
