@@ -108,6 +108,7 @@ Continually updated.
 - [IconFont][IconFont]
 - [Font-Awesome][Font-Awesome]
 - [material-design-icons][material-design-icons] Material Design icons by Google
+- [sketch-feather][sketch-feather] Sketch library for Feather icons
 
 ## IOT
 
@@ -127,6 +128,7 @@ Continually updated.
 
 - [reveal.js][reveal.js]
 - [slides][slides]
+- [smallpdf][smallpdf]
 
 ## Resume
 
@@ -291,7 +293,9 @@ Continually updated.
 [React Native UI]: https://github.com/react-native-training/react-native-elements
 
 [semantic-css-with-intelligent-selectors]: https://www.w3cplus.com/css/semantic-css-with-intelligent-selectors.html
+[sketch-feather]: https://github.com/feathericons/sketch-feather
 [slides]: https://slides.com
+[smallpdf]: https://smallpdf.com/cn
 [standard]: https://github.com/standard/standard
 
 
