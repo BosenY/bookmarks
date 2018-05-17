@@ -29,7 +29,7 @@ Continually updated.
 * [awesome-react-native][awesome-react-native] Awesome React Native components, news, tools, and learning material!
 * [awesome-vue][awesome-vue] 🎉 A curated list of awesome things related to Vue.js
 
-## CMS
+## CMS UI
 
 * [Ant-design-pro][ant-design-pro]
 * [Iview-admin][iview-admin]
