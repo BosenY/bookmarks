@@ -64,6 +64,7 @@ Continually updated.
 ### Vue
 
 * [babel-plugin-jsx-v-model][babel-plugin-jsx-v-model] JSX Syntactic Sugar Plugin for v-model
+* [vue-hackernews-2.0][vue-hackernews-2.0]
 
 ## Develop Tips
 
@@ -277,6 +278,7 @@ Continually updated.
 [tinypng]: https://tinypng.com/
 [velocity]: https://github.com/julianshapiro/velocity
 [vue]: https://vuejs.org/
+[vue-hackernews-2.0]: https://github.com/vuejs/vue-hackernews-2.0
 [vuepress]: https://github.com/vuejs/vuepress
 [vscode]: https://github.com/Microsoft/vscode
 [vue-tips]: https://vuejs-tips.github.io/cheatsheet/
