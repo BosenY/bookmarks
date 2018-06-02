@@ -115,6 +115,10 @@ Continually updated.
 
 * [Ruff][ruff]
 
+## Other
+
+* [amp][amp]
+
 ## Plain
 
 * [plainjs][plainjs]
@@ -200,6 +204,7 @@ Continually updated.
 [ant-design]: https://ant.design
 [ant-design-pro]: https://preview.pro.ant.design
 [ant-design-mobile]: https://mobile.ant.design
+[amp]: https://github.com/ampproject/amphtml
 [awesomes]: https://www.awesomes.cn
 [awesome-blockchain-cn]: https://github.com/chaozh/awesome-blockchain-cn
 [awesome-egg]: https://github.com/eggjs/awesome-egg
