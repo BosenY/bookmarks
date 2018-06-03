@@ -197,6 +197,8 @@ Continually updated.
 3.  React-Native
 
     * [React Native UI][react native ui] Cross Platform React Native UI Toolkit
+    * [styled-components][styled-components] Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress nail_care
+    * [react-native-wechat][react-native-wechat] rocket WeChat login, share, favorite and payment for React-Native on iOS and Android platforms
 
 [javascript]: https://github.com/airbnb/javascript
 [animate css]: https://daneden.github.io/animate.css/
@@ -269,11 +271,13 @@ Continually updated.
 [react]: https://reactjs.org/
 [react-weui]: react-weui
 [react native ui]: https://github.com/react-native-training/react-native-elements
+[react-native-wechat]: https://github.com/yorkie/react-native-wechat
 [semantic-css-with-intelligent-selectors]: https://www.w3cplus.com/css/semantic-css-with-intelligent-selectors.html
 [sketch-feather]: https://github.com/feathericons/sketch-feather
 [slides]: https://slides.com
 [smallpdf]: https://smallpdf.com/cn
 [standard]: https://github.com/standard/standard
+[styled-components]: https://github.com/styled-components/styled-components
 [resumesample]: https://github.com/geekcompany/ResumeSample
 [reveal.js]: https://github.com/hakimel/reveal.js
 [rough]: https://github.com/pshihn/rough
