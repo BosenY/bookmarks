@@ -59,6 +59,7 @@ Continually updated.
 
 * [anchorjs][anchorjs] Add deep anchor links to your docs.
 * [EaselJS][easeljs] A library for building high-performance interactive 2D content in HTML5.
+* [Puppeteer][Puppeteer] Headless Chrome Node API 
 * [rough][rough] Create graphics with a hand-drawn, sketchy, appearance
 
 ### Vue
@@ -268,6 +269,7 @@ Continually updated.
 [pokemondb]: https://pokemondb.net/
 [pomelo]: https://github.com/NetEase/pomelo
 [process on]: https://www.processon.com/
+[Puppeteer]: https://github.com/GoogleChrome/puppeteer
 [react]: https://reactjs.org/
 [react-weui]: react-weui
 [react native ui]: https://github.com/react-native-training/react-native-elements
