@@ -75,6 +75,7 @@ Continually updated.
 
 - [vscode][vscode]
 - [tinypng][tinypng] Optimize your images with a perfect balance in quality and file size.
+- [git-open][git-open] Type `git open` to open the GitHub page or website for a repository in your browser.
 
 ## Electron
 
@@ -245,6 +246,7 @@ Continually updated.
 [frontend-dev-bookmarks]: https://github.com/dypsilon/frontend-dev-bookmarks
 [gatsby]: https://github.com/gatsbyjs/gatsby
 [git]: https://git-scm.com/book/zh/v2
+[git-open]: https://github.com/paulirish/git-open
 [hexo]: https://github.com/hexojs/hexo
 [high-performance-html]: https://www.w3cplus.com/performance/high-performance-html.html
 [howtographql]: https://github.com/howtographql/howtographql
