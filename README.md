@@ -205,6 +205,7 @@ Continually updated.
     - [React Native UI][react native ui] Cross Platform React Native UI Toolkit
     - [styled-components][styled-components] Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress nail_care
     - [react-native-wechat][react-native-wechat] rocket WeChat login, share, favorite and payment for React-Native on iOS and Android platforms
+    - [taro][taro] 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。
 
 [javascript]: https://github.com/airbnb/javascript
 [animate css]: https://daneden.github.io/animate.css/
@@ -292,6 +293,7 @@ Continually updated.
 [rough]: https://github.com/pshihn/rough
 [ruff]: https://ruff.io/
 [tampermonkey]: http://tampermonkey.net/
+[taro]: https://github.com/NervJS/taro
 [tensorflow-js]: https://github.com/tensorflow/tfjs
 [tinypng]: https://tinypng.com/
 [velocity]: https://github.com/julianshapiro/velocity
