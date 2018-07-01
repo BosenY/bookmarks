@@ -26,6 +26,7 @@ Continually updated.
 * [awesome-go][awesome-go] A curated list of awesome Go frameworks, libraries and software
 * [awesome-koa][awesome-koa]
 * [awesome-react][awesome-react]
+* [awesome-nextjs][awesome-nextjs] notebook_with_decorative_cover books A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 * [awesome-react-native][awesome-react-native] Awesome React Native components, news, tools, and learning material!
 * [awesome-vue][awesome-vue] 🎉 A curated list of awesome things related to Vue.js
 
@@ -216,6 +217,7 @@ Continually updated.
 [awesome-flow]: https://github.com/dustinspecker/awesome-flow
 [awesome-go]: https://github.com/avelino/awesome-go
 [awesome-koa]: https://github.com/ellerbrock/awesome-koa
+[awesome-nextjs]: https://github.com/unicodeveloper/awesome-nextjs
 [awesome-react]: https://github.com/enaqx/awesome-react
 [awesome-react-native]: https://github.com/jondot/awesome-react-native
 [awesome-vue]: https://github.com/vuejs/awesome-vue
