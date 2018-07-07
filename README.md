@@ -192,6 +192,7 @@ Continually updated.
 ## Typechecker
 
 - [flow][flow] Adds static typing to JavaScript to improve developer productivity and code quality.
+- [typescript][typescript] TypeScript is a superset of JavaScript that compiles to clean JavaScript output. http://www.typescriptlang.org
 
 ## UI Componets
 
@@ -321,6 +322,7 @@ Continually updated.
 [taro]: https://github.com/NervJS/taro
 [tensorflow-js]: https://github.com/tensorflow/tfjs
 [tinypng]: https://tinypng.com/
+[typescript]: https://github.com/Microsoft/TypeScript
 [velocity]: https://github.com/julianshapiro/velocity
 [vue]: https://vuejs.org/
 [vue-hackernews-2.0]: https://github.com/vuejs/vue-hackernews-2.0
