@@ -143,6 +143,10 @@ Continually updated.
 
 - [howtographql][howtographql] The Fullstack Tutorial for GraphQL
 
+## Next.js
+
+- [next.js-plugin][next.js-plugin]
+
 ## Other
 
 - [amp][amp]
@@ -291,6 +295,7 @@ Continually updated.
 [mint-ui]: http://mint-ui.github.io/
 [mongodb]: https://github.com/mongodb/mongo
 [naotu]: http://naotu.baidu.com/
+[next.js-plugin]: https://github.com/zeit/next-plugins
 [node frameworks]: http://nodeframework.com/
 [offernews]: https://offernews.cn/
 [phaser]: https://github.com/photonstorm/phaser
