@@ -167,6 +167,10 @@ Continually updated.
 - [slides][slides]
 - [smallpdf][smallpdf]
 
+## React
+
+- [immutable-js][immutable-js] Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/
+
 ## Resume
 
 - [best-resume-ever][best-resume-ever] 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
@@ -280,6 +284,7 @@ Continually updated.
 [high-performance-html]: https://www.w3cplus.com/performance/high-performance-html.html
 [howtographql]: https://github.com/howtographql/howtographql
 [iconfont]: http://www.iconfont.cn/
+[immutable-js]: https://github.com/facebook/immutable-js
 [iview]: https://www.iviewui.com/
 [iview-admin]: https://iview.github.io/iview-admin
 [javascript-cn]: https://github.com/sivan/javascript-style-guide
