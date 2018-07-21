@@ -143,10 +143,6 @@ Continually updated.
 
 - [howtographql][howtographql] The Fullstack Tutorial for GraphQL
 
-## Next.js
-
-- [next.js-plugin][next.js-plugin]
-
 ## Other
 
 - [amp][amp]
@@ -170,6 +166,8 @@ Continually updated.
 ## React
 
 - [immutable-js][immutable-js] Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/
+- [next.js-plugin][next.js-plugin]
+- [next-routes][next-routes] Universal dynamic routes for Next.js
 
 ## Resume
 
@@ -300,6 +298,7 @@ Continually updated.
 [mint-ui]: http://mint-ui.github.io/
 [mongodb]: https://github.com/mongodb/mongo
 [naotu]: http://naotu.baidu.com/
+[next-routes]: https://github.com/fridays/next-routes
 [next.js-plugin]: https://github.com/zeit/next-plugins
 [node frameworks]: http://nodeframework.com/
 [offernews]: https://offernews.cn/
