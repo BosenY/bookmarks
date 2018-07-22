@@ -168,6 +168,7 @@ Continually updated.
 - [immutable-js][immutable-js] Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/
 - [next.js-plugin][next.js-plugin]
 - [next-routes][next-routes] Universal dynamic routes for Next.js
+- [awesome-react-components][awesome-react-components] Catalog of React Components & Libraries https://devarchy.com/react
 
 ## Resume
 
@@ -314,6 +315,7 @@ Continually updated.
 [react]: https://reactjs.org/
 [react-weui]: react-weui
 [react-awesome-button]: https://github.com/rcaferati/react-awesome-button
+[awesome-react-components]: https://github.com/brillout/awesome-react-components
 [react-google-maps]: https://github.com/tomchentw/react-google-maps
 [react native ui]: https://github.com/react-native-training/react-native-elements
 [react-native-wechat]: https://github.com/yorkie/react-native-wechat
