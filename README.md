@@ -15,6 +15,10 @@ Continually updated.
 - [animate css][animate css]
 - [velocity][velocity] Accelerated JavaScript animation.
 
+## Amp
+
+- [amp][amp] AMP HTML source code, samples, and documentation. See below for more info. https://www.ampproject.org
+
 ## Awesomes
 
 * [awesomes][awesomes]
