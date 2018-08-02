@@ -21,18 +21,6 @@ Continually updated.
 
 ## Awesomes
 
-* [awesomes][awesomes]
-* [awesome-blockchain-cn][awesome-blockchain-cn] Awesome BlockChain in China
-* [awesome-egg][awesome-egg]
-* [awesome-electron][awesome-electron]
-* [awesome-eslint][awesome-eslint] A list of awesome ESLint plugins, configs, etc.
-* [awesome-flow][awesome-flow] A list of awesome Flow integrations, tools, tutorials, etc.
-* [awesome-go][awesome-go] A curated list of awesome Go frameworks, libraries and software
-* [awesome-koa][awesome-koa]
-* [awesome-react][awesome-react]
-* [awesome-nextjs][awesome-nextjs] notebook_with_decorative_cover books A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
-* [awesome-react-native][awesome-react-native] Awesome React Native components, news, tools, and learning material!
-* [awesome-vue][awesome-vue] 🎉 A curated list of awesome things related to Vue.js
 - [awesomes][awesomes]
 - [awesome-blockchain-cn][awesome-blockchain-cn] Awesome BlockChain in China
 - [awesome-egg][awesome-egg]
@@ -42,8 +30,21 @@ Continually updated.
 - [awesome-go][awesome-go] A curated list of awesome Go frameworks, libraries and software
 - [awesome-koa][awesome-koa]
 - [awesome-react][awesome-react]
+- [awesome-nextjs][awesome-nextjs] notebook_with_decorative_cover books A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [awesome-react-native][awesome-react-native] Awesome React Native components, news, tools, and learning material!
 - [awesome-vue][awesome-vue] 🎉 A curated list of awesome things related to Vue.js
+
+* [awesomes][awesomes]
+* [awesome-blockchain-cn][awesome-blockchain-cn] Awesome BlockChain in China
+* [awesome-egg][awesome-egg]
+* [awesome-electron][awesome-electron]
+* [awesome-eslint][awesome-eslint] A list of awesome ESLint plugins, configs, etc.
+* [awesome-flow][awesome-flow] A list of awesome Flow integrations, tools, tutorials, etc.
+* [awesome-go][awesome-go] A curated list of awesome Go frameworks, libraries and software
+* [awesome-koa][awesome-koa]
+* [awesome-react][awesome-react]
+* [awesome-react-native][awesome-react-native] Awesome React Native components, news, tools, and learning material!
+* [awesome-vue][awesome-vue] 🎉 A curated list of awesome things related to Vue.js
 
 ## CMS UI
 
@@ -65,16 +66,16 @@ Continually updated.
 - [offernews][offernews]
 - [Tampermonkey][tampermonkey] 一款免费的浏览器扩展和最为流行的用户脚本管理器
 - [wallhalla][wallhalla] A best images collection.
+- [document-style-guide][document-style-guide] 中文技术文档的写作规范
 
 ## Components
 
 ### React
 
 - [react-awesome-button][react-awesome-button] desktop_computeriphoneReactJS 60fps light weight performant component that renders a animated set of progress and social share enabled 3D UI buttons.
-- [react-google-maps][react-google-maps] React.js Google Maps integration component 
+- [react-google-maps][react-google-maps] React.js Google Maps integration component
 
 ### Vue
-
 
 ## DB
 
@@ -267,6 +268,7 @@ Continually updated.
 [codewars]: https://www.codewars.com/dashboard
 [docschina]: https://www.docschina.org/
 [docsify]: https://github.com/QingWei-Li/docsify/
+[document-style-guide]: https://github.com/ruanyf/document-style-guide
 [easeljs]: https://github.com/CreateJS/EaselJS
 [eggjs]: https://eggjs.org/
 [element]: http://element.eleme.io/
